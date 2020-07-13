@@ -1,0 +1,5 @@
+Based on the data, I found that there were three observable trends which include:
+    
+    1. The majority of purchases made and most money spent on the game is by male players.
+    2. The majority of purchases and most money spent is in the age group of 20-24.
+    3. The most popular and highest generating item in the game is Final Critic.
